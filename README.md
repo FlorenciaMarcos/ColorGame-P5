@@ -2,6 +2,7 @@
 
 Realization of a dynamic game with JavaScript
 
+
 <h3 align="left">Connect with me:</h3>
 
 florcita.6221@gmail.com
