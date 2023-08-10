@@ -1,0 +1,42 @@
+.square {
+  float: left;
+  width: 30%;
+  height: 0;
+  padding-bottom: 30%;
+  margin: 1%;
+}
+
+.container {
+  width: 600px;
+  height: 0;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #232323;
+}
+
+h1 {
+  color: white;
+  margin: 10%;
+}
+
+#title {
+  background-color: black;
+  height: 100px;
+  margin-top: -125px;
+  text-align: center;
+}
+
+#stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+}
+
+#message {
+  color: rgb(2, 2, 2);
+}
+.selected{
+    background-color: blueviolet;
+}
